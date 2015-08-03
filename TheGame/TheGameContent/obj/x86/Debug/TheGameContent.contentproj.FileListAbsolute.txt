@@ -1,0 +1,3 @@
+c:\users\faheem\documents\visual studio 2013\Projects\TheGame\TheGame\TheGameContent\obj\x86\Debug\TheGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Faheem\Desktop\TheGame\TheGame\TheGameContent\obj\x86\Debug\TheGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGameContent\obj\x86\Debug\TheGameContent.contentprojResolveAssemblyReference.cache

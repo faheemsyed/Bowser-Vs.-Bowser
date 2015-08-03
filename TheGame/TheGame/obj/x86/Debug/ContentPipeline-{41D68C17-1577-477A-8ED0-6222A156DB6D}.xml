@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BowserSpriteSheet.png</Source>
+      <Name>BowserSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\BowserSpriteSheet.xnb</Output>
+      <Time>2015-06-08T14:48:55.3081576-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\HealthBar.xnb</Output>
+      <Time>2015-06-08T14:48:55.5383108-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayersWinCount.png</Source>
+      <Name>PlayersWinCount</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\PlayersWinCount.xnb</Output>
+      <Time>2015-06-08T14:48:55.5473154-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RoundNumber.png</Source>
+      <Name>RoundNumber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\RoundNumber.xnb</Output>
+      <Time>2015-06-08T14:48:55.6043541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stage1.png</Source>
+      <Name>stage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\stage1.xnb</Output>
+      <Time>2015-06-08T14:48:55.630373-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stage3.png</Source>
+      <Name>stage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\stage3.xnb</Output>
+      <Time>2015-06-08T14:48:55.7656125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WinMessage.png</Source>
+      <Name>WinMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\WinMessage.xnb</Output>
+      <Time>2015-06-08T14:48:55.8006361-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EndScreen.jpg</Source>
+      <Name>EndScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\EndScreen.xnb</Output>
+      <Time>2015-06-08T14:48:55.4962812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stage2.png</Source>
+      <Name>stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\stage2.xnb</Output>
+      <Time>2015-06-08T14:48:55.6633919-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScreen.jpg</Source>
+      <Name>StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\StartScreen.xnb</Output>
+      <Time>2015-06-08T14:48:55.7846242-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Punch.wav</Source>
+      <Name>Punch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Punch.xnb</Output>
+      <Time>2015-06-08T14:48:55.5563206-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PunchSwoosh.wav</Source>
+      <Name>PunchSwoosh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\PunchSwoosh.xnb</Output>
+      <Time>2015-06-08T14:48:55.5673295-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FireBall.wav</Source>
+      <Name>FireBall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\FireBall.xnb</Output>
+      <Time>2015-06-08T14:48:55.5273026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Round 1.wav</Source>
+      <Name>Round 1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Round 1.xnb</Output>
+      <Time>2015-06-08T14:48:55.5813397-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Round 2.wav</Source>
+      <Name>Round 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Round 2.xnb</Output>
+      <Time>2015-06-08T14:48:55.5953464-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Final Round.wav</Source>
+      <Name>Final Round</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Final Round.xnb</Output>
+      <Time>2015-06-08T14:48:55.5112907-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bowser Background Song.mp3</Source>
+      <Name>Bowser Background Song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Bowser Background Song.xnb</Output>
+      <Extra>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\Bowser Background Song.wma</Extra>
+      <Time>2015-06-08T14:48:55.2561223-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{41D68C17-1577-477A-8ED0-6222A156DB6D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Faheem\Desktop\Projects\TheGame\TheGame\TheGame\TheGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-28T16:21:08.5433411-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
